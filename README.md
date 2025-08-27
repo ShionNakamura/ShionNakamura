@@ -42,15 +42,16 @@
 ## Qittaアカウント
 <div align="center">
   <a href="https://qiita.com/ShionNakamura">
-    <img src="https://img.shields.io/qiita/points/ShionNakamura?style=for-the-badge&logo=Qiita&logoColor=white" alt="Qiita Points"/>
+    <img src="https://img.shields.io/badge/Points-0-blue?style=for-the-badge&logo=Qiita&logoColor=white" alt="Qiita Points"/>
   </a>
   <a href="https://qiita.com/ShionNakamura">
-    <img src="https://img.shields.io/qiita/followers/ShionNakamura?style=for-the-badge&logo=Qiita&logoColor=white" alt="Qiita Followers"/>
+    <img src="https://img.shields.io/badge/Followers-0-green?style=for-the-badge&logo=Qiita&logoColor=white" alt="Qiita Followers"/>
   </a>
   <a href="https://qiita.com/ShionNakamura">
-    <img src="https://img.shields.io/qiita/items/ShionNakamura?style=for-the-badge&logo=Qiita&logoColor=white" alt="Qiita Items"/>
+    <img src="https://img.shields.io/badge/Items-0-orange?style=for-the-badge&logo=Qiita&logoColor=white" alt="Qiita Items"/>
   </a>
 </div>
+
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ShionNakamura)](https://github.com/ShionNakamura)
 [![Qiita](https://img.shields.io/badge/--FFFFFF?style=social&logo=Qiita&label=Follow%20ShionNakamura)](https://qiita.com/ShionNakamura)
