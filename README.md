@@ -19,7 +19,7 @@
 ---
 
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoge&theme=dracula
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?ShionNakamura=hoge&theme=dracula
 
 
 ### 📊 Stats
