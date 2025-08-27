@@ -40,11 +40,17 @@
 
 
 
-## 他アカウント
+## Qittaアカウント
 [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/ShionNakamura)
 
-[![Qiita Points](https://img.shields.io/qiita/points/ShionNakamura?style=for-the-badge&logo=Qiita&logoColor=white)](https://qiita.com/ShionNakamura)
-[![Qiita Followers](https://img.shields.io/qiita/followers/ShionNakamura?style=for-the-badge&logo=Qiita&logoColor=white)](https://qiita.com/ShionNakamura)
-[![Qiita Items](https://img.shields.io/qiita/items/ShionNakamura?style=for-the-badge&logo=Qiita&logoColor=white)](https://qiita.com/ShionNakamura)
-
-
+<div align="center">
+  <a href="https://qiita.com/ShionNakamura">
+    <img src="https://img.shields.io/qiita/points/ShionNakamura?style=for-the-badge&logo=Qiita&logoColor=white" alt="Qiita Points"/>
+  </a>
+  <a href="https://qiita.com/ShionNakamura">
+    <img src="https://img.shields.io/qiita/followers/ShionNakamura?style=for-the-badge&logo=Qiita&logoColor=white" alt="Qiita Followers"/>
+  </a>
+  <a href="https://qiita.com/ShionNakamura">
+    <img src="https://img.shields.io/qiita/items/ShionNakamura?style=for-the-badge&logo=Qiita&logoColor=white" alt="Qiita Items"/>
+  </a>
+</div>
