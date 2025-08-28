@@ -18,11 +18,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShionNakamura&show_icons=true&theme=dracula" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShionNakamura&layout=compact&theme=dracula" height="160" />
+    <img src="https://streak-stats.demolab.com?user=ShionNakamura&theme=dracula" height="160"/>
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ShionNakamura&theme=dracula" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShionNakamura&layout=compact&theme=dracula" height="160" />
 </div>
 
 ---
