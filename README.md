@@ -27,7 +27,7 @@
 </div>
 
 ---
-## 📲 App Store & デモ動画
+## 📲 App Store & デモ動画一覧
 ### RiseLyft — 筋トレ習慣化アプリ
 - [App Store](https://apps.apple.com/us/app/riselyft/id6742440472?platform=iphone)
 - [デモ動画 (YouTube)](https://www.youtube.com/watch?v=cYBkwo8vl_o)
