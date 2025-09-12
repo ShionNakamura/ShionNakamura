@@ -3,7 +3,7 @@
 [![Qiita](https://img.shields.io/badge/--FFFFFF?style=social&logo=Qiita&label=Follow%20ShionNakamura)](https://qiita.com/ShionNakamura)
 
 ## 🚀 制作物一覧 
-- 📱 <a href="https://github.com/ShionNakamura/EnglishApp">EnglishApp</a> — 英語学習アプリ (現在開発中)
+- 📱 <a href="https://github.com/ShionNakamura/EnglishApp">EnglishApp</a> — 英語学習アプリ (現在開発中)　
 - 🏃 <a href="https://github.com/ShionNakamura/HIIT-new">HIIT-new</a> — HIIT トレーニングアプリ
 - 🍎 <a href="https://github.com/ShionNakamura/PFCChecker">PFCChecker</a> — PFCバランス計算アプリ
 - 💪 <a href="https://github.com/ShionNakamura/RiseLyft">RiseLyft</a> — 筋トレ記録アプリ
