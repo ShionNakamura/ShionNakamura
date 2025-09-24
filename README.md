@@ -8,7 +8,7 @@
 - 🍎 <a href="https://github.com/ShionNakamura/PFCChecker">PFCChecker</a> — PFCバランス計算アプリ
 - 💪 <a href="https://github.com/ShionNakamura/RiseLyft">RiseLyft</a> — 筋トレ記録アプリ
 
----
+--- 
 
 ## 📊 GitHub Stats 　　
 
